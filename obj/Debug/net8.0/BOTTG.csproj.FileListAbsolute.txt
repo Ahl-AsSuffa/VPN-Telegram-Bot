@@ -1,0 +1,79 @@
+D:\Alls\C++Projects\BOTTG\BOTTG\bin\Debug\net8.0\README.txt
+D:\Alls\C++Projects\BOTTG\BOTTG\bin\Debug\net8.0\PRTelegramBot.dll
+D:\Alls\C++Projects\BOTTG\BOTTG\bin\Debug\net8.0\System.Text.Json.dll
+D:\Alls\C++Projects\BOTTG\BOTTG\bin\Debug\net8.0\Telegram.Bot.dll
+D:\Alls\C++Projects\BOTTG\BOTTG\obj\Debug\net8.0\BOTTG.csproj.AssemblyReference.cache
+D:\Alls\C++Projects\BOTTG\BOTTG\obj\Debug\net8.0\BOTTG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alls\C++Projects\BOTTG\BOTTG\obj\Debug\net8.0\BOTTG.AssemblyInfoInputs.cache
+D:\Alls\C++Projects\BOTTG\BOTTG\obj\Debug\net8.0\BOTTG.AssemblyInfo.cs
+D:\Alls\C++Projects\BOTTG\BOTTG\obj\Debug\net8.0\BOTTG.csproj.CoreCompileInputs.cache
+D:\Alls\C++Projects\BOTTG\BOTTG\obj\Debug\net8.0\BOTTG.csproj.Up2Date
+D:\Alls\C++Projects\BOTTG\BOTTG\obj\Debug\net8.0\BOTTG.genruntimeconfig.cache
+D:\Alls\C++Projects\BOTTG\BOTTG\bin\Debug\net8.0\BotForTG.exe
+D:\Alls\C++Projects\BOTTG\BOTTG\bin\Debug\net8.0\BotForTG.deps.json
+D:\Alls\C++Projects\BOTTG\BOTTG\bin\Debug\net8.0\BotForTG.runtimeconfig.json
+D:\Alls\C++Projects\BOTTG\BOTTG\bin\Debug\net8.0\BotForTG.dll
+D:\Alls\C++Projects\BOTTG\BOTTG\bin\Debug\net8.0\BotForTG.pdb
+D:\Alls\C++Projects\BOTTG\BOTTG\obj\Debug\net8.0\BotForTG.dll
+D:\Alls\C++Projects\BOTTG\BOTTG\obj\Debug\net8.0\refint\BotForTG.dll
+D:\Alls\C++Projects\BOTTG\BOTTG\obj\Debug\net8.0\BotForTG.pdb
+D:\Alls\C++Projects\BOTTG\BOTTG\obj\Debug\net8.0\ref\BotForTG.dll
+C:\Users\bayso\Desktop\BOTTG\bin\Debug\net8.0\BotForTG.exe
+C:\Users\bayso\Desktop\BOTTG\bin\Debug\net8.0\README.txt
+C:\Users\bayso\Desktop\BOTTG\bin\Debug\net8.0\BotForTG.deps.json
+C:\Users\bayso\Desktop\BOTTG\bin\Debug\net8.0\BotForTG.runtimeconfig.json
+C:\Users\bayso\Desktop\BOTTG\bin\Debug\net8.0\BotForTG.dll
+C:\Users\bayso\Desktop\BOTTG\bin\Debug\net8.0\BotForTG.pdb
+C:\Users\bayso\Desktop\BOTTG\bin\Debug\net8.0\PRTelegramBot.dll
+C:\Users\bayso\Desktop\BOTTG\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\bayso\Desktop\BOTTG\obj\Debug\net8.0\BOTTG.csproj.AssemblyReference.cache
+C:\Users\bayso\Desktop\BOTTG\obj\Debug\net8.0\BOTTG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayso\Desktop\BOTTG\obj\Debug\net8.0\BOTTG.AssemblyInfoInputs.cache
+C:\Users\bayso\Desktop\BOTTG\obj\Debug\net8.0\BOTTG.AssemblyInfo.cs
+C:\Users\bayso\Desktop\BOTTG\obj\Debug\net8.0\BOTTG.csproj.CoreCompileInputs.cache
+C:\Users\bayso\Desktop\BOTTG\obj\Debug\net8.0\BOTTG.csproj.Up2Date
+C:\Users\bayso\Desktop\BOTTG\obj\Debug\net8.0\BotForTG.dll
+C:\Users\bayso\Desktop\BOTTG\obj\Debug\net8.0\refint\BotForTG.dll
+C:\Users\bayso\Desktop\BOTTG\obj\Debug\net8.0\BotForTG.pdb
+C:\Users\bayso\Desktop\BOTTG\obj\Debug\net8.0\BOTTG.genruntimeconfig.cache
+C:\Users\bayso\Desktop\BOTTG\obj\Debug\net8.0\ref\BotForTG.dll
+C:\Users\bayso\Desktop\NADO\BOTTG\bin\Debug\net8.0\BotForTG.exe
+C:\Users\bayso\Desktop\NADO\BOTTG\bin\Debug\net8.0\README.txt
+C:\Users\bayso\Desktop\NADO\BOTTG\bin\Debug\net8.0\BotForTG.deps.json
+C:\Users\bayso\Desktop\NADO\BOTTG\bin\Debug\net8.0\BotForTG.runtimeconfig.json
+C:\Users\bayso\Desktop\NADO\BOTTG\bin\Debug\net8.0\BotForTG.dll
+C:\Users\bayso\Desktop\NADO\BOTTG\bin\Debug\net8.0\BotForTG.pdb
+C:\Users\bayso\Desktop\NADO\BOTTG\bin\Debug\net8.0\PRTelegramBot.dll
+C:\Users\bayso\Desktop\NADO\BOTTG\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\bayso\Desktop\NADO\BOTTG\obj\Debug\net8.0\BOTTG.csproj.AssemblyReference.cache
+C:\Users\bayso\Desktop\NADO\BOTTG\obj\Debug\net8.0\BOTTG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayso\Desktop\NADO\BOTTG\obj\Debug\net8.0\BOTTG.AssemblyInfoInputs.cache
+C:\Users\bayso\Desktop\NADO\BOTTG\obj\Debug\net8.0\BOTTG.AssemblyInfo.cs
+C:\Users\bayso\Desktop\NADO\BOTTG\obj\Debug\net8.0\BOTTG.csproj.CoreCompileInputs.cache
+C:\Users\bayso\Desktop\NADO\BOTTG\obj\Debug\net8.0\BOTTG.csproj.Up2Date
+C:\Users\bayso\Desktop\NADO\BOTTG\obj\Debug\net8.0\BotForTG.dll
+C:\Users\bayso\Desktop\NADO\BOTTG\obj\Debug\net8.0\refint\BotForTG.dll
+C:\Users\bayso\Desktop\NADO\BOTTG\obj\Debug\net8.0\BotForTG.pdb
+C:\Users\bayso\Desktop\NADO\BOTTG\obj\Debug\net8.0\BOTTG.genruntimeconfig.cache
+C:\Users\bayso\Desktop\NADO\BOTTG\obj\Debug\net8.0\ref\BotForTG.dll
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\bin\Debug\net8.0\BotForTG.exe
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\bin\Debug\net8.0\README.txt
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\bin\Debug\net8.0\BotForTG.deps.json
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\bin\Debug\net8.0\BotForTG.runtimeconfig.json
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\bin\Debug\net8.0\BotForTG.dll
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\bin\Debug\net8.0\BotForTG.pdb
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\bin\Debug\net8.0\PRTelegramBot.dll
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\obj\Debug\net8.0\BOTTG.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\obj\Debug\net8.0\BOTTG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\obj\Debug\net8.0\BOTTG.AssemblyInfoInputs.cache
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\obj\Debug\net8.0\BOTTG.AssemblyInfo.cs
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\obj\Debug\net8.0\BOTTG.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\obj\Debug\net8.0\BOTTG.csproj.Up2Date
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\obj\Debug\net8.0\BotForTG.dll
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\obj\Debug\net8.0\refint\BotForTG.dll
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\obj\Debug\net8.0\BotForTG.pdb
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\obj\Debug\net8.0\BOTTG.genruntimeconfig.cache
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\obj\Debug\net8.0\ref\BotForTG.dll
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\bin\Debug\net8.0\Npgsql.dll
+C:\Users\я\Desktop\Асхаби Папк\BOTTG_Construct\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
